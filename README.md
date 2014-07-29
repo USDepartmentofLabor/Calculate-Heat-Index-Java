@@ -7,5 +7,6 @@ This code was pulled from [the OSHA Heat Safety Android app](https://github.com/
 
 The method heatIndexCal takes two double values: temperature and relative humidity.
 
-Example:
-calculatedHeatIndex = calIndex.heatIndexCal(temperature, relativeHumidity);
+#### Example:
+
+    calculatedHeatIndex = calIndex.heatIndexCal(temperature, relativeHumidity);
